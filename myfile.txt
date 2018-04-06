@@ -1,1 +1,2 @@
 This is myfile
+this is an added line
